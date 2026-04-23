@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 # 🎓 School Management API
-
+My 2nd internship project
 A RESTful Web API built with **.NET 8** and **Clean Architecture** for managing students, teachers, subjects, and grades.
 
 ## 🏗️ Architecture
@@ -189,6 +188,3 @@ GET /api/grades/transcript/1
 | **Infrastructure** | EF Core `AppDbContext`, `GenericRepository<T>`, specialized repositories, migrations |
 | **API** | Controllers, `ExceptionMiddleware`, DI registration (`Program.cs`) |
 =======
-# School-Management
-My 2nd internship project
->>>>>>> 27de0658cfc698bc5940c9d42f2db4df92bb885b
