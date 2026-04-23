@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\forra\\APROGRAMMING\\SchoolManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4D1279-1987-48D3-BDDD-5636191D7518}|School.Infrastructure\\School.Infrastructure.csproj|c:\\users\\forra\\aprogramming\\schoolmanagement\\school.infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A4D1279-1987-48D3-BDDD-5636191D7518}|School.Infrastructure\\School.Infrastructure.csproj|solutionrelative:school.infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1769,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\forra\\APROGRAMMING\\SchoolManagement\\School.Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "School.Infrastructure\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\forra\\APROGRAMMING\\SchoolManagement\\School.Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "School.Infrastructure\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T12:54:32.76Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

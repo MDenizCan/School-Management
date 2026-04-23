@@ -1,0 +1,17 @@
+C:\Users\forra\APROGRAMMING\SchoolManagement\School.Application\bin\Debug\net8.0\School.Application.deps.json
+C:\Users\forra\APROGRAMMING\SchoolManagement\School.Application\bin\Debug\net8.0\School.Application.dll
+C:\Users\forra\APROGRAMMING\SchoolManagement\School.Application\bin\Debug\net8.0\School.Application.pdb
+C:\Users\forra\APROGRAMMING\SchoolManagement\School.Application\bin\Debug\net8.0\School.Domain.dll
+C:\Users\forra\APROGRAMMING\SchoolManagement\School.Application\bin\Debug\net8.0\School.Domain.pdb
+C:\Users\forra\APROGRAMMING\SchoolManagement\School.Application\obj\Debug\net8.0\School.Application.csproj.AssemblyReference.cache
+C:\Users\forra\APROGRAMMING\SchoolManagement\School.Application\obj\Debug\net8.0\School.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\forra\APROGRAMMING\SchoolManagement\School.Application\obj\Debug\net8.0\School.Application.AssemblyInfoInputs.cache
+C:\Users\forra\APROGRAMMING\SchoolManagement\School.Application\obj\Debug\net8.0\School.Application.AssemblyInfo.cs
+C:\Users\forra\APROGRAMMING\SchoolManagement\School.Application\obj\Debug\net8.0\School.Application.csproj.CoreCompileInputs.cache
+C:\Users\forra\APROGRAMMING\SchoolManagement\School.Application\obj\Debug\net8.0\School.A.0288516A.Up2Date
+C:\Users\forra\APROGRAMMING\SchoolManagement\School.Application\obj\Debug\net8.0\School.Application.dll
+C:\Users\forra\APROGRAMMING\SchoolManagement\School.Application\obj\Debug\net8.0\refint\School.Application.dll
+C:\Users\forra\APROGRAMMING\SchoolManagement\School.Application\obj\Debug\net8.0\School.Application.pdb
+C:\Users\forra\APROGRAMMING\SchoolManagement\School.Application\obj\Debug\net8.0\ref\School.Application.dll
+C:\Users\forra\APROGRAMMING\SchoolManagement\School.Application\bin\Debug\net8.0\School.Contracts.dll
+C:\Users\forra\APROGRAMMING\SchoolManagement\School.Application\bin\Debug\net8.0\School.Contracts.pdb

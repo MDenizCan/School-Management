@@ -1,0 +1,11 @@
+C:\Users\forra\APROGRAMMING\SchoolManagement\School.Domain\bin\Debug\net8.0\School.Domain.deps.json
+C:\Users\forra\APROGRAMMING\SchoolManagement\School.Domain\bin\Debug\net8.0\School.Domain.dll
+C:\Users\forra\APROGRAMMING\SchoolManagement\School.Domain\bin\Debug\net8.0\School.Domain.pdb
+C:\Users\forra\APROGRAMMING\SchoolManagement\School.Domain\obj\Debug\net8.0\School.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\forra\APROGRAMMING\SchoolManagement\School.Domain\obj\Debug\net8.0\School.Domain.AssemblyInfoInputs.cache
+C:\Users\forra\APROGRAMMING\SchoolManagement\School.Domain\obj\Debug\net8.0\School.Domain.AssemblyInfo.cs
+C:\Users\forra\APROGRAMMING\SchoolManagement\School.Domain\obj\Debug\net8.0\School.Domain.csproj.CoreCompileInputs.cache
+C:\Users\forra\APROGRAMMING\SchoolManagement\School.Domain\obj\Debug\net8.0\School.Domain.dll
+C:\Users\forra\APROGRAMMING\SchoolManagement\School.Domain\obj\Debug\net8.0\refint\School.Domain.dll
+C:\Users\forra\APROGRAMMING\SchoolManagement\School.Domain\obj\Debug\net8.0\School.Domain.pdb
+C:\Users\forra\APROGRAMMING\SchoolManagement\School.Domain\obj\Debug\net8.0\ref\School.Domain.dll

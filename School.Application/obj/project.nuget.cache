@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/QfKJcW5pHo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\forra\\APROGRAMMING\\SchoolManagement\\School.Application\\School.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\forra\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\forra\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
