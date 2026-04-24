@@ -1,5 +1,5 @@
 # 🎓 School Management API
-My 3rd project that i developed during my internship
+My second project that i developed during my internship
 
 A RESTful Web API built with **.NET 8** and **Clean Architecture** for managing students, teachers, subjects, and grades.
 
